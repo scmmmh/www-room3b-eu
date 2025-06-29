@@ -1,0 +1,6 @@
+chapters:
+- file: projects/index
+  sections:
+  - file: projects/museum-map
+format: jb-book
+root: index

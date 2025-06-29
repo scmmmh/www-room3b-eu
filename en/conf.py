@@ -1,0 +1,10 @@
+needs_sphinx = '8'
+language = 'en'
+root_doc = 'index'
+html_theme = 'pydata_sphinx_theme'
+html_theme_options = {}
+extensions = ['myst_parser', 'sphinx_external_toc', 'uedition']
+myst_enable_extensions = ['amsmath', 'attrs_inline', 'colon_fence', 'deflist', 'dollarmath', 'fieldlist', 'html_admonition', 'html_image', 'replacements', 'smartquotes', 'strikethrough', 'substitution', 'tasklist']
+html_title = 'Room3b - Mark Hall'
+project = 'Room3b'
+author = 'Unnamed'

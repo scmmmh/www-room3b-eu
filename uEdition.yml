@@ -1,0 +1,11 @@
+languages:
+- code: en
+  label: English
+  path: en
+output: site
+title:
+  en: Room3b
+version: '2'
+sphinx_config:
+  html_theme: pydata_sphinx_theme
+  html_title: Room3b - Mark Hall
